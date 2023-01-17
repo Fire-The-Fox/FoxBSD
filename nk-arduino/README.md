@@ -6,9 +6,9 @@ Custom Arduino IDE made using Xlib + Xft and Nuklear
 OpenBSD doesn't ship arduino package with its IDE, so i made one.
 
 ### Build Dependencies
-Xlib
-Xft
+* Xlib
+* Xft
 
 #### Runtime Dependencies
-arduino
-arduino-makefile
+* arduino
+* arduino-makefile
